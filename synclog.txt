@@ -1,0 +1,10 @@
+Syncing C:\Source to C:\Replica at 3/6/2023 10:18:57 AM
+Syncing C:\Source to C:\Replica at 3/6/2023 10:19:02 AM
+Syncing C:\Source to C:\Replica at 3/6/2023 10:19:07 AM
+Syncing C:\Source to C:\Replica at 3/6/2023 10:19:12 AM
+Syncing C:\Source to C:\Replica at 3/6/2023 10:19:17 AM
+Deleted C:\Replica\task - Copy.txt
+Syncing C:\Source to C:\Replica at 3/6/2023 10:19:22 AM
+Syncing C:\Source to C:\Replica at 3/6/2023 10:19:27 AM
+Copied C:\Source\task - Copy.txt to C:\Replica\task - Copy.txt
+Syncing C:\Source to C:\Replica at 3/6/2023 10:19:32 AM

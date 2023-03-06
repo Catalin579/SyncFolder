@@ -1,0 +1,15 @@
+C:\Users\catal\Desktop\SyncFolder\bin\Debug\net7.0\SyncFolder.exe
+C:\Users\catal\Desktop\SyncFolder\bin\Debug\net7.0\SyncFolder.deps.json
+C:\Users\catal\Desktop\SyncFolder\bin\Debug\net7.0\SyncFolder.runtimeconfig.json
+C:\Users\catal\Desktop\SyncFolder\bin\Debug\net7.0\SyncFolder.dll
+C:\Users\catal\Desktop\SyncFolder\bin\Debug\net7.0\SyncFolder.pdb
+C:\Users\catal\Desktop\SyncFolder\obj\Debug\net7.0\SyncFolder.csproj.AssemblyReference.cache
+C:\Users\catal\Desktop\SyncFolder\obj\Debug\net7.0\SyncFolder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\catal\Desktop\SyncFolder\obj\Debug\net7.0\SyncFolder.AssemblyInfoInputs.cache
+C:\Users\catal\Desktop\SyncFolder\obj\Debug\net7.0\SyncFolder.AssemblyInfo.cs
+C:\Users\catal\Desktop\SyncFolder\obj\Debug\net7.0\SyncFolder.csproj.CoreCompileInputs.cache
+C:\Users\catal\Desktop\SyncFolder\obj\Debug\net7.0\SyncFolder.dll
+C:\Users\catal\Desktop\SyncFolder\obj\Debug\net7.0\refint\SyncFolder.dll
+C:\Users\catal\Desktop\SyncFolder\obj\Debug\net7.0\SyncFolder.pdb
+C:\Users\catal\Desktop\SyncFolder\obj\Debug\net7.0\SyncFolder.genruntimeconfig.cache
+C:\Users\catal\Desktop\SyncFolder\obj\Debug\net7.0\ref\SyncFolder.dll
