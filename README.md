@@ -3,10 +3,10 @@
 This program synchronizes two folders: source and replica. The
 program maintains a full, identical copy of source folder at replica folder. 
 
-## How to run this program
+## How to run this program 
     
-    To run this program on you PC, you must run the following comand in the Terminal:
-        `SyncFolder [source folder] [replica folder] [log file path]`
+To run this program on you PC, you must run the following comand in the Terminal:
+    `SyncFolder [source folder] [replica folder] [log file path]`
 
 ##  Explanation of this program, line by line: 
 - The program is written in C# language and it helps to keep two folders synchronized.
