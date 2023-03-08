@@ -12,7 +12,6 @@ To run this program on you PC, you must run the following comand in the Terminal
 ##  Explanation of this program, line by line: 
 - The program is written in C# language and it helps to keep two folders synchronized.
 - The program uses four built-in libraries: System, System.IO, System.Security.Cryptography, and System.Threading.
-- The program uses the namespace FolderSync to avoid naming conflicts with other programs.
 - The main class is called Program.
 - The Main method is where the program starts running.
 - The Main method takes command-line arguments: sourceDir (the path to the source folder), replicaDir (the path to the replica folder), logFile (the path to the log file), and interval (the time interval between synchronization).
